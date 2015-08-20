@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://repo1sandbox.uhc.com/artifactory/api/gems/rubygems.org/
   specs:
     rack (1.6.0)
     rack-protection (1.5.3)
